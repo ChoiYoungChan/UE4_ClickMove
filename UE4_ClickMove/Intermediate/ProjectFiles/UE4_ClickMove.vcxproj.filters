@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE4_ClickMove.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9A937C36-BD87-4281-9586-9512B8226536}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4_ClickMove.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE4_ClickMoveEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1C46FA76-A924-4D11-A083-E171C8F9EA6A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE4_ClickMove">
+      <UniqueIdentifier>{2AECE1E3-A81E-499C-ADDA-0F29A595F1F3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4_ClickMove\UE4_ClickMove.Build.cs">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE4_ClickMove\UE4_ClickMove.cpp">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4_ClickMove\UE4_ClickMove.h">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE4_ClickMove\UE4_ClickMoveGameModeBase.cpp">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4_ClickMove\UE4_ClickMoveGameModeBase.h">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

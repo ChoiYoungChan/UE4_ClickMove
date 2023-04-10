@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\Source\\UE4_ClickMove\\UE4_ClickMove.Build.cs",
+		"D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\Source\\UE4_ClickMove.Target.cs",
+		"D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\Source\\UE4_ClickMoveEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
