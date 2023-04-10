@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE4_ClickMove-6638.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4_ClickMoveEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\ClickMoveCharacter.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\ClickPlayerController.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\UE4_ClickMove.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\UE4_ClickMoveGameModeBase.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\ClickMoveCharacter.gen.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\ClickPlayerController.gen.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\UE4_ClickMove.init.gen.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\UE4_ClickMoveGameModeBase.gen.cpp.obj"
+"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\Default.rc2.res"
+/OUT:"D:\Documents\Project\Project Athena\UE4_ClickMove\UE4_ClickMove\Intermediate\Build\Win64\UE4Editor\Development\UE4_ClickMove\UE4Editor-UE4_ClickMove-6638.lib"

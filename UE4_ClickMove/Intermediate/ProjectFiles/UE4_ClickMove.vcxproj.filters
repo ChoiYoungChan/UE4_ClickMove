@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UE4_ClickMove.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{9A937C36-BD87-4281-9586-9512B8226536}</UniqueIdentifier>
+      <UniqueIdentifier>{5AD80526-9DBF-4456-B25D-54DD7598F22F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UE4_ClickMove.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{1C46FA76-A924-4D11-A083-E171C8F9EA6A}</UniqueIdentifier>
+      <UniqueIdentifier>{C0528342-96BB-414D-804E-00ECB50A3775}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +23,24 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\UE4_ClickMove">
-      <UniqueIdentifier>{2AECE1E3-A81E-499C-ADDA-0F29A595F1F3}</UniqueIdentifier>
+      <UniqueIdentifier>{6F83B409-CF2B-44A1-9335-8DBC7D455A86}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UE4_ClickMove\ClickMoveCharacter.cpp">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4_ClickMove\ClickMoveCharacter.h">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE4_ClickMove\ClickPlayerController.cpp">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4_ClickMove\ClickPlayerController.h">
+      <Filter>Source\UE4_ClickMove</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UE4_ClickMove\UE4_ClickMove.Build.cs">
       <Filter>Source\UE4_ClickMove</Filter>
     </None>

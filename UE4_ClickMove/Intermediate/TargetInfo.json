@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UE4_ClickMove",
-			"Path": "D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\Source\\UE4_ClickMove.Target.cs",
+			"Path": "D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\UE4_ClickMove\\Source\\UE4_ClickMove.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UE4_ClickMoveEditor",
-			"Path": "D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\Source\\UE4_ClickMoveEditor.Target.cs",
+			"Path": "D:\\Documents\\Project\\Project Athena\\UE4_ClickMove\\UE4_ClickMove\\Source\\UE4_ClickMoveEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
